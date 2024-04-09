@@ -5,7 +5,8 @@
 - 📫 I can be reach at email: softwaremack3510@gmail.com  or linkedin: www.linkedin.com/in/softwaremack  
 - 😄 Pronouns: He/Him ...
 - ⚡ Fun fact: I grew up on a legit farm and one day soon will have my own.
--  I'm proficient in the following besides english :css3 git heroku html5 javascript mysql nodejs postman react sass python mongodb express.js next.js Bootstrap 
+-  I'm proficient in the following besides english :css3 git heroku html5 javascript mysql nodejs postman react sass python mongodb express.js next.js Bootstrap, Firebase, 
+   Angular
 -  Enjoy!
 <!---
 SoftwareMack/SoftwareMack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
