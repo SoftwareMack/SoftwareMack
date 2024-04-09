@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Donald Mack also known as @SoftwareMack
+- 👋 Hi, I’m Donald Mack also known as SoftwareMack
 - 👀 I’m a Software Engineer interested in all things tech.
 - 🌱 I'm a forever learner, that loves to create.
 - 💞️ I’m looking to collaborate on any fun and challenging project:)
