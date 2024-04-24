@@ -5,7 +5,7 @@
 - 📫 I can be reach at email: softwaremack3510@gmail.com  or linkedin: www.linkedin.com/in/softwaremack  
 - 😄 Pronouns: He/Him ...
 - ⚡ Fun fact: I grew up on a legit farm and one day soon will have my own.
--  Trying to make the world one deed at a time.
+-  Trying to make the world a better place one deed at a time.
 -  [![trophy](https://github-profile-trophy.vercel.app/?username=SoftwareMack)](https://github.com/ryo-ma/github-profile-trophy)
 -  Enjoy!
 ![SoftwareMackLogo](https://github.com/SoftwareMack/SoftwareMack/assets/142954704/92bba328-e438-4b16-972f-09732835aadf)
