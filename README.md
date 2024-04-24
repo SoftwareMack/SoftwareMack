@@ -37,10 +37,13 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 	![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SoftwareMack)](https://github.com/ashutosh00710/github-readme-activity-graph)
 -  Enjoy!
 ![SoftwareMackLogo](https://github.com/SoftwareMack/SoftwareMack/assets/142954704/92bba328-e438-4b16-972f-09732835aadf)
 
--  
+- 
 <!---
 SoftwareMack/SoftwareMack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
